@@ -33,3 +33,4 @@ await sql `
     revalidatePath('/dashboard/invoices');
     redirect('/dashboard/invoices')
 };
+
